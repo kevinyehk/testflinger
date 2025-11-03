@@ -10,7 +10,6 @@ docs/.sphinx/.doctrees/
 .coverage
 .swp
 .tox
-.vscode
 
 *.py[cod]
 *.egg*
